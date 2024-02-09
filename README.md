@@ -12,4 +12,4 @@
 
 ▸This study provides valuable insights into the application of hybrid topic models and multi-viewpoint similarity metrics, enhancing the compression and analysis of discussions related to children with special needs in social media, particularly on Twitter.
 
-▸The main motto of this project is to visually represent the issues of children needs.
+▸The main motto of this project is to visually represent the issues of children with special needs.
